@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="generated-icon.png" alt="SafePay Logo" width="150"/>
-  <h3>🏆 Developed for Hackazard 2025 Hackathon</h3>
+  <h3>🏆 Developed for Hackhazard 2025 Hackathon</h3>
   <p>A cutting-edge mobile-first application revolutionizing UPI payment security through intelligent fraud prevention technologies</p>
 </div>
 
@@ -45,7 +45,7 @@ SafePay is a comprehensive fraud detection and prevention platform that uses adv
 ### AI & ML
 - Custom-trained QR, voice and video fraud detection models
 - Groq LLM API for enhanced natural language understanding
-- OpenAI for audio transcription
+- Groq for audio transcription
 - Computer vision for QR code verification
 
 ## 📱 Application Screens
@@ -70,14 +70,14 @@ SafePay is a comprehensive fraud detection and prevention platform that uses adv
 
 ### Prerequisites
 - Replit account
-- Groq API key or OpenAI API key
+- Groq API key or Groq API key
 
 ### Installation
 
 1. Fork this Repl
 2. Add your environment variables in the Secrets tab:
    - `GROQ_API_KEY`: Your Groq API key
-   - `OPENAI_API_KEY`: Your OpenAI API key (for audio transcription)
+   - `Groq_API_KEY`: Your Groq API key (for audio transcription)
    - `SESSION_SECRET`: A secure random string
    - `DATABASE_URL`: Your database URL (provided by Replit)
 
@@ -101,7 +101,7 @@ SafePay is a comprehensive fraud detection and prevention platform that uses adv
 
 ## 📈 Recent Enhancements
 
-- Replaced OpenAI with Groq LLM for improved performance
+- Replaced Groq with Groq LLM for improved performance
 - Implemented UPI deep linking for seamless payment app integration
 - Enhanced QR detection with 94% accuracy ML model
 - Added video and call scam detection capabilities
@@ -118,14 +118,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-- Hackazard 2025 organizers and judges
-- Groq and OpenAI for API capabilities
+- Hackhazard 2025 organizers and judges
+- Groq and Groq for API capabilities
 - Replit for development and hosting platform
 - Community contributors and testers
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ for Hackazard 2025</p>
+  <p>Made with ❤️ for Hackhazard 2025</p>
   <p>© 2025 SafePay Team. All rights reserved.</p>
 </div>
