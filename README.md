@@ -8,9 +8,9 @@
 
 ## 🔴 Live Demo
 
-The app is deployed on Replit: [https://safe-pay.replit.app](https://safe-pay.replit.app)
+The app is deployed on Replit: [https://safe-pay.replit.app](https://pay-safe.replit.app/)
 
-Watch the project demo: [YouTube Demo](https://youtu.be/mGgMQMZ7EKw?si=Ndcq3y2YmVzHbiLs)
+Watch the project demo: [YouTube Demo](https://youtube.com/shorts/XE5Z1bLOXJA?si=mrS7SxXs2r3ZJH_6)
 
 ## 🚀 Project Overview
 
@@ -110,7 +110,7 @@ SafePay is a comprehensive fraud detection and prevention platform that uses adv
 
 ## 👥 Contributors
 
-- Team members: @kshitisingh8075, @yash720, @nihira07, @Niharika01232
+- Team members: @kshitisingh8075, @yash720, @nihira07, @muskann778
 
 ## 📄 License
 
